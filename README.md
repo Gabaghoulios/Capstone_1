@@ -33,7 +33,9 @@ These were my observations upon initial inspection of the datasets:
 
 * In the 2019 data, birth year and gender were included in customer information, along with trip duration.
 These were not included in the 2020 dataset.
+
 *There was null data in the gender and birthyear columns.
+
 *Ride ID values changed from purely numeric in 2019 to those with mixed values (i.e., numbers and letters) in 2020.
 
 ## Process
@@ -41,4 +43,7 @@ These were not included in the 2020 dataset.
 Before analysis was conducted the rows of data needed to be made consistent.
 These were the steps taken to clean the data:
 
-*
+*Change customer type from "Subscriber" to "member" and "Customer" to "casual"
+
+*Added the following additional columns: day, month, year, day of week and ride duration
+
