@@ -25,11 +25,12 @@ The main questions to guide our process in this case study are:
 R was selected for this project due to the volume of data involved. Data was collected between 2019 and 2020.
 In the prepare phase the following steps were completed:
 
-*Downloaded two .csv files from divvy-tripdata.com
+* Downloaded two .csv files from divvy-tripdata.com
 
-*Imported the data in RStudio for processing and analysis
+* Imported the data in RStudio for processing and analysis
 
 These were my observations upon initial inspection of the datasets:
+
 
 * In the 2019 data, birth year and gender were included in customer information, along with trip duration.
 These were not included in the 2020 dataset.
@@ -43,7 +44,10 @@ These were not included in the 2020 dataset.
 Before analysis was conducted the rows of data needed to be made consistent.
 These were the steps taken to clean the data:
 
-*Change customer type from "Subscriber" to "member" and "Customer" to "casual"
+* Change customer type from "Subscriber" to "member" and "Customer" to "casual"
 
-*Added the following additional columns: day, month, year, day of week and ride duration
+* Added the following additional columns: day, month, year, day of week and ride duration
 
+* Deleted rows of data that contained ride durations with negative values
+
+* Rearranged days of the week in the correct order
