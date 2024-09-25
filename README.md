@@ -22,10 +22,14 @@ The main questions to guide our process in this case study are:
 
 ## Prepare
 
-R was selected for this project due to the volume of data involved. 
+R was selected for this project due to the volume of data involved. Data was collected between 2019 and 2020.
 In the prepare phase the following steps were completed:
 
 *Downloaded two .csv files from divvy-tripdata.com
 
 *Imported the data in RStudio for processing and analysis
 
+These were my observations upon initial inspection of the datasets:
+
+* In the 2019 data, birth year and gender were included in customer information, along with trip duration.
+These were not included in the 2020 dataset.
