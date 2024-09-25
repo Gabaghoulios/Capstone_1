@@ -26,5 +26,6 @@ R was selected for this project due to the volume of data involved.
 In the prepare phase the following steps were completed:
 
 *Downloaded two .csv files from divvy-tripdata.com
+
 *Imported the data in RStudio for processing and analysis
 
