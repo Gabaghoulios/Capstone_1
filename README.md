@@ -70,4 +70,4 @@ Descriptive analysis yielded the following results:
 
 * Longest ride taken: 10632022
 
-Additionally, differences were noted in the habits of annual members and casual users
+Additionally, differences were noted in the habits of annual members and casual users, illustrated by with this graph:
