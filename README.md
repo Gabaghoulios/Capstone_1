@@ -51,3 +51,11 @@ These were the steps taken to clean the data:
 * Deleted rows of data that contained ride durations with negative values
 
 * Rearranged days of the week in the correct order
+
+*Ensured trip data matched with correct user category
+
+*Converted ride data from factor to numeric type to perform calculations
+
+This allowed me to effectively perform descriptive analysis on the collected rider data.
+
+## Analyze
