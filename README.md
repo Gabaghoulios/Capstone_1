@@ -18,7 +18,7 @@ The main questions to guide our process in this case study are:
 
 1. How do annual members and casual riders use Cyclistic bikes dierently?
 2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to inuence casual riders to become members?
+3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Prepare
 
@@ -66,6 +66,8 @@ Descriptive analysis yielded the following results:
 
 * Median duration of rides: 539
 
-* Average of total rides: 1189
+* Average duration of rides: 1189
 
 * Longest ride taken: 10632022
+
+Additionally, differences were noted in the habits of annual members and casual users
