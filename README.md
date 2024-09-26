@@ -59,3 +59,13 @@ These were the steps taken to clean the data:
 This allowed me to effectively perform descriptive analysis on the collected rider data.
 
 ## Analyze
+
+Descriptive analysis yielded the following results:
+
+* Duration of shortest ride taken: 1
+
+* Median duration of rides: 539
+
+* Average of total rides: 1189
+
+* Longest ride taken: 10632022
