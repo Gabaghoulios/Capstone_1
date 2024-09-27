@@ -10,6 +10,7 @@ From the data provided, we will determine what steps will be taken for future ma
 ## Process
 
 Data processing and analysis was performed using RStudio. As detailed in the course, the data analysis workflow goes as follows:
+
 ![Analysis workflow](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Gm_zDWazPDD_JZUcdQxafA.png)
 
 ## Ask
