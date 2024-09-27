@@ -72,7 +72,7 @@ Descriptive analysis yielded the following results:
 
 Additionally, differences were noted in the habits of annual members and casual users, illustrated by with this graph:
 
-/>
+![Analysis_workflow](https://raw.githubusercontent.com/Gabaghoulios/Capstone_1/refs/heads/main/Plot.jpg)
 
 
 
