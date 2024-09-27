@@ -16,7 +16,7 @@ Data processing and analysis was performed using RStudio. As detailed in the cou
 
 The main questions to guide our process in this case study are:
 
-1. How do annual members and casual riders use Cyclistic bikes dierently?
+1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
@@ -74,6 +74,25 @@ Additionally, differences were noted in the habits of annual members and casual 
 
 ![Analysis_workflow](https://raw.githubusercontent.com/Gabaghoulios/Capstone_1/refs/heads/main/Plot.jpg)
 
+A more detailed breakdown of data can be found below:
 
+### Trip Data Summary
+
+| Member Type | Day of the Week | Average Ride Length (seconds) |
+|-------------|------------------|-------------------------------|
+| Casual      | Sunday           | 5061                          |
+| Member      | Sunday           | 973                           |
+| Casual      | Monday           | 4752                          |
+| Member      | Monday           | 822                           |
+| Casual      | Tuesday          | 4562                          |
+| Member      | Tuesday          | 769                           |
+| Casual      | Wednesday        | 4480                          |
+| Member      | Wednesday        | 712                           |
+| Casual      | Thursday         | 8452                          |
+| Member      | Thursday         | 707                           |
+| Casual      | Friday           | 6091                          |
+| Member      | Friday           | 797                           |
+| Casual      | Saturday         | 4951                          |
+| Member      | Saturday         | 974                           |
 
 
