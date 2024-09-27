@@ -95,4 +95,6 @@ A more detailed breakdown of data can be found below:
 | Casual      | Saturday         | 4951                          |
 | Member      | Saturday         | 974                           |
 
+## Sharing
 
+As the data suggests, the majority of rides come from casual riders, with the majority of them taking place on Thursdays.
