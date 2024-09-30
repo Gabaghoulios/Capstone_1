@@ -100,3 +100,5 @@ A more detailed breakdown of data can be found below:
 
 As the data suggests, the majority of rides come from casual riders, with the majority of them taking place on Thursdays.
 
+## Act
+
