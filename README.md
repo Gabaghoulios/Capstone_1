@@ -109,7 +109,8 @@ We now return to the 3 driving questions of this case study:
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-From our analysis we can draw the following conclusions:
+From our analysis we can draw the following conclusions and make recommendations:
 
 1. Casual members use Cyclistic more than annual members
-2. 
+2. Casual riders would benefit from annual membership via benefits such as reduced rates, expedited login, and
+3. 
