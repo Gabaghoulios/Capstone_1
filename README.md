@@ -102,3 +102,14 @@ As the data suggests, the majority of rides come from casual riders, with the ma
 
 ## Act
 
+We now return to the 3 driving questions of this case study:
+
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+From our analysis we can draw the following conclusions:
+
+1. Casual members use Cyclistic more than annual members
+2. 
