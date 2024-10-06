@@ -115,9 +115,18 @@ From our analysis we can draw the following conclusions and make recommendations
 2. Casual riders would benefit from annual membership via benefits such as reduced rates, expedited login, and access to exclusive features and events
 3. In order to leverage social media for boosting membership, Cyclistic could share promotions on platforms such as Facebook, Instagram and TikTok. Collecting video testimonies from current members
 would serve as an effective strategy to put a more human face on reasons to subscribe. Cyclistic could also promote special events such as bike parties with special rates on social media platforms
-in order to draw more users into a paid subscription.
+in order to draw more users into a paid subscription. To maximize conversion, it is recommended to implement such events on days with the highest ridership, for instance, Thursdays. This could foster
+a sense of community with paying members and encourage increased registration with Cyclistic. It may also be helpful to highlight environmental reasons for increasing affordable bike ridership. Most
+importantly, interviewing riders with disabilities would also provide effective social evidence for more users to join Cyclistic, highlighting the benefits that specially designed bicycles have for
+transporting people with disabilities in a clean, safe and effective manner and how it fosters community with them and riders without disabilities as well.
 
 ## Conclusions
 
 Cyclistic is a popular bike sharing company that continues to serve Chicagoans throughout the city. However, the majority of its users are not subscribed to its paid services, which include perks such as
-reduced rates and expedited login, to streamline the ride and rental processes. This presents a problem for Cyclistic
+reduced rates and expedited login, to streamline the ride and rental processes. This presents a problem for Cyclistic, as this presents an obstacle for the company to acheive a consistent source of revenue.
+To rectify this, it is recommended that Cyclistic implement a social media marketing campaign aimed at boosting membership and ridership. As Thursdays are the days with most activity, it would be best to 
+set up an event on those days; such events could include bike parties in which casual users and annual members can mingle together and build a sense of community, which may encourage casual users to register for
+annual membership. Furthermore, videos and/or writtent testimonies can be collected at these events and shared on social media platforms such as Instagram or TikTok-with user permission-to boost credibility and 
+encourage membership. It may also be helpful to highlight environmental reasons for increasing affordable bike ridership. Most
+importantly, interviewing riders with disabilities would also provide effective social evidence for more users to join Cyclistic, highlighting the benefits that specially designed bicycles have for
+transporting people with disabilities in a clean, safe and effective manner and how it fosters community with them and riders without disabilities as well.
