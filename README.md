@@ -111,6 +111,13 @@ We now return to the 3 driving questions of this case study:
 
 From our analysis we can draw the following conclusions and make recommendations:
 
-1. Casual members use Cyclistic more than annual members
-2. Casual riders would benefit from annual membership via benefits such as reduced rates, expedited login, and
-3. 
+1. Casual members use Cyclistic more than annual members, but this trend may reverse when casual users are made aware of perks such as reduced rental rates
+2. Casual riders would benefit from annual membership via benefits such as reduced rates, expedited login, and access to exclusive features and events
+3. In order to leverage social media for boosting membership, Cyclistic could share promotions on platforms such as Facebook, Instagram and TikTok. Collecting video testimonies from current members
+would serve as an effective strategy to put a more human face on reasons to subscribe. Cyclistic could also promote special events such as bike parties with special rates on social media platforms
+in order to draw more users into a paid subscription.
+
+## Conclusions
+
+Cyclistic is a popular bike sharing company that continues to serve Chicagoans throughout the city. However, the majority of its users are not subscribed to its paid services, which include perks such as
+reduced rates and expedited login, to streamline the ride and rental processes. This presents a problem for Cyclistic
