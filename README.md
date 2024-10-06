@@ -120,6 +120,12 @@ a sense of community with paying members and encourage increased registration wi
 importantly, interviewing riders with disabilities would also provide effective social evidence for more users to join Cyclistic, highlighting the benefits that specially designed bicycles have for
 transporting people with disabilities in a clean, safe and effective manner and how it fosters community with them and riders without disabilities as well.
 
+## Implementation
+
+The timeline of implementation for this project will go as follows:
+
+
+
 ## Conclusions
 
 Cyclistic is a popular bike sharing company that continues to serve Chicagoans throughout the city. However, the majority of its users are not subscribed to its paid services, which include perks such as
