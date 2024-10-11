@@ -124,7 +124,7 @@ transporting people with disabilities in a clean, safe and effective manner and 
 
 The timeline of implementation for this project will go as follows:
 
-(Create visual of a timeline)
+![Timline](https://raw.githubusercontent.com/Gabaghoulios/Capstone_1/refs/heads/main/Timeline.jpg)
 
 ## Conclusions
 
